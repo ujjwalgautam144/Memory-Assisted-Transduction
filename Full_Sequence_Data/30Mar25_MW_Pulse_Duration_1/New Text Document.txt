@@ -1,0 +1,6 @@
+MW Duration varied from 200ns to 6us such that the num of photons remain the same i.e. area under the pulse is constant. This is achieved by considering P*t = const. => Amp*sqrt(t) = const.
+
+Here we take Amp0 = 0.1 AWG and t0 = 3us
+
+RAP 60us Duration 0.36 Amp
+Pump 3us at max amplitude
